@@ -12,6 +12,9 @@ What is more important is that the side of this interactive experience reflects 
 
 
 
+
+
+
 HOW IT WORKS
 1.  Combine Kinect bone mapping to detect human body movements, links to draw a good shadow play characters, and each action are synchronized to simulate movement of the person behind the shadow puppet.
 Equivalent to the traditional shadow opera, the people behind the scenes control and operate the shadow puppet.
